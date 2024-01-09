@@ -4,20 +4,15 @@ This version of Adventure is taken from a Zerox Sigma-9, originally written by D
 
 The system components such as restricting the program's use etc. have been left incomplete. He did them back in the old Ratfor version under V7 but each system can be quite different about determining load etc. 
 
-**CP-V Adventure**
+**Adventure**
 
 Originally written by David Platt (from the 350-point Adventure), the UNIX C Version was written by Ken Wellsch, with several modifications.
 
 **History:**
 
-1979 winter: Running on XEROX SIGMA-9 under CP-V. Written in Fortran-77 by David Platt.
+**1979 winter:** Running on XEROX SIGMA-9 under CP-V. Written in Fortran-77 by David Platt.
 
-1982 winter: Completely rewritten for PDP 11/44 under UNIX Version 7. Written in Rational FORTRAN (ratfor) by Ken Wellsch.
+**1982 winter:** Completely rewritten for PDP 11/44 under UNIX Version 7. Written in Rational FORTRAN (ratfor) by Ken Wellsch.
                
-1984 fall: Once again rewritten, this time for a VAX 11/780, under UNIX BSD 4.2. Written in C by Ken Wellsch.
-
-
-Copyright (c) 1979 David Platt    Database & Methods
-       
-Copyright (c) 1984 Ken Wellsch    C Code & Modifications
+**1984 fall:** Once again rewritten, this time for a VAX 11/780, under UNIX BSD 4.2. Written in C by Ken Wellsch.
 
