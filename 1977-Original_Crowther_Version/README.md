@@ -1,11 +1,11 @@
-# The original Crowther version
+# The original Crowther version (1977)
 
 This is the source code for the original Crowther and Woods Colossal Cave
-Adventure, 350 point verion, in PDP-10 FORTRAN.  There have been many ports
+Adventure, 350-point version, in PDP-10 FORTRAN.  There have been many ports
 of this, in both FORTRAN and C, but all of them can be traced back to this
 version.
 
-A notable feature of this version which made it into few of the ports is the
+A notable feature of this version which made it into a few of the ports is the
 concept of "cave hours".  Since the PDP-10 was a timesharing system, it was
 often considered desirable to prevent people from playing games during
 business hours.  The game has a "wizard mode" which allows the system
