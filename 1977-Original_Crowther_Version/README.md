@@ -1,4 +1,4 @@
-# The original Crowther version (1977)
+# The Original Crowther version (1977)
 
 This is the source code for the original Crowther and Woods Colossal Cave
 Adventure, 350-point version, in PDP-10 FORTRAN.  There have been many ports
